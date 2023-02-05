@@ -36,4 +36,5 @@ public class PersonDataValidator {
             return true;
         };
     }
+    //строка для домашнего задания номер три
 }
