@@ -26,4 +26,5 @@ public class OnlyCorrect {
     public static void main(String[] args) {
         correctInt(1,3);
     }
+    //строка для домашнего задания номер два
 }
